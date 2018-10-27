@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WeatherApp/.vs/WeatherApp/v15
+/WeatherApp/.vs/WeatherApp/DesignTimeBuild
+/WeatherApp/src/Components/Blazor.Component.Widget/obj
+/WeatherApp/src/Weather.App.Tests/obj
+/WeatherApp/src/Web/Client/Weather.App/obj
+/WeatherApp/src/Web/Server/Weather.App.Server/obj
